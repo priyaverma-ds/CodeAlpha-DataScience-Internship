@@ -9,7 +9,7 @@ This repository contains my Data Science Internship projects at CodeAlpha.
 * Built a machine learning model using Logistic Regression
 * Achieved high accuracy
 
-📊 **Unemployment Analysis**
+**Unemployment Analysis**
 
 * Performed data cleaning and visualization
 * Analyzed trends and Covid-19 impact
