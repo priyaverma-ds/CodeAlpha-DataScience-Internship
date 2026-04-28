@@ -1,6 +1,6 @@
-# 📊 CodeAlpha Data Science Internship
+# 📊 CodeAlpha Data Science Internship Projects
 
-This repository contains my internship projects completed during the CodeAlpha Data Science Internship.
+This repository showcases my Data Science Internship projects completed at CodeAlpha.
 
 ## Projects
 
@@ -19,3 +19,5 @@ This repository contains my internship projects completed during the CodeAlpha D
 - Scikit-learn
 - Matplotlib
 - Seaborn
+
+These projects demonstrate my skills in machine learning, data analysis, and visualization.
