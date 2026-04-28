@@ -1,19 +1,21 @@
 # 📊 CodeAlpha Data Science Internship
 
-This repository contains my Data Science Internship projects at CodeAlpha.
+This repository contains my internship projects completed during the CodeAlpha Data Science Internship.
 
 ## Projects
 
-**Iris Flower Classification**
+### Task 1: Iris Flower Classification
+- Built a machine learning model using Logistic Regression
+- Achieved high accuracy in classification
 
-* Built a machine learning model using Logistic Regression
-* Achieved high accuracy
-
-**Unemployment Analysis**
-
-* Performed data cleaning and visualization
-* Analyzed trends and Covid-19 impact
+### Task 2: Unemployment Analysis
+- Performed data cleaning and analysis
+- Visualized unemployment trends
+- Analyzed Covid-19 impact
 
 ## Tools Used
-
-Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
