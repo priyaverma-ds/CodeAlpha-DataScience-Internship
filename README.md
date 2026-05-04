@@ -1,23 +1,37 @@
-# 📊 CodeAlpha Data Science Internship Projects
+# 📊 CodeAlpha Data Science Internship
 
-This repository showcases my Data Science Internship projects completed at CodeAlpha.
+This repository contains the projects I completed during my **Data Science Internship at CodeAlpha**, focusing on machine learning and data analysis.
+
+---
 
 ## Projects
 
 ### Task 1: Iris Flower Classification
-- Built a machine learning model using Logistic Regression
-- Achieved high accuracy in classification
+- Built a classification model using Logistic Regression  
+- Performed data preprocessing and label encoding  
+- Achieved high accuracy on test data  
 
 ### Task 2: Unemployment Analysis
-- Performed data cleaning and analysis
-- Visualized unemployment trends
-- Analyzed Covid-19 impact
+- Cleaned and analyzed real-world unemployment data  
+- Visualized trends using Matplotlib  
+- Analyzed the impact of Covid-19  
+
+---
 
 ## Tools Used
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Seaborn
+Python | Pandas | NumPy | Scikit-learn | Matplotlib  
 
-These projects demonstrate my skills in machine learning, data analysis, and visualization.
+---
+
+## Key Skills
+Machine Learning • Data Analysis • Data Visualization • EDA  
+
+---
+
+## Author
+**Priya Kumari Verma**  
+Aspiring Data Scientist  
+
+---
+
+Feel free to explore the projects!
